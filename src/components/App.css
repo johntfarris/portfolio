@@ -1,0 +1,25 @@
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.body {
+  background-color: #f8f8ff;
+}
+.project-image {
+  max-width: 100%;
+  height: auto;
+  padding: 20px;
+}
+img {
+  height: auto;
+  width: auto;
+  max-width: 300px;
+}
+.contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
