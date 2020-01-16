@@ -10,16 +10,16 @@ function Projects(props) {
       <div className="ui grid">
         <Thumbnail
           className="four wide column"
-          link=""
-          image="http://bit.ly/2Z3SRmB"
-          title=""
+          link="https://intense-sands-46818.herokuapp.com/"
+          image="https://i.imgur.com/AbfEFPc.png"
+          title="Feedback Retriever"
           category=""
         />
         <Thumbnail
           className="four wide column"
-          link=""
-          image="http://bit.ly/2Z3SRmB"
-          title=""
+          link="http://immense-crag-89739.herokuapp.com/"
+          image="https://i.imgur.com/TvP0kts.png"
+          title="Video Player"
           category=""
         />
         <Thumbnail
