@@ -7,10 +7,19 @@
 .body {
   background-color: #f8f8ff;
 }
+.projects {
+  height: 100vh;
+}
+.resume {
+  height: 100vh;
+}
 .project-image {
   max-width: 100%;
   height: auto;
   padding: 20px;
+}
+.project-title {
+  text-align: center;
 }
 img {
   height: auto;
