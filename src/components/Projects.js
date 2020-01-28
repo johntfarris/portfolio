@@ -36,6 +36,13 @@ function Projects(props) {
           title="Blog Post List"
           category=""
         />
+        <Thumbnail
+          className="four wide column"
+          link="/"
+          image="http://bit.ly/2Z3SRmB"
+          title="Streams Placeholder"
+          category=""
+        />
       </div>
     </div>
   );
